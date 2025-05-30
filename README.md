@@ -1,1 +1,1 @@
-
+I've been practicing my skills on Python and learning the program to be more fluent. My first attempt ever checking out Visual Studio Code was learning to do an introduction in Python whilst navigating my way through using Copilot AI as additional assistance. Copilot has helped me in understanding the basics for a Python script. I wanted to cover as many basics as I could in my first ever script but I think my next Python project may cover more ground, but, for now this will do.
